@@ -1,0 +1,43 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+  width: 86px;
+}
+
+#cupon_web{
+  font-family: 'Roboto:300', sans-serif;
+  color: #707070;
+}
+
+.card-title{
+  color: #212529;
+  font-size: 20pt;
+}
+
+.companny{
+  margin-bottom: 2px;
+  font-size: 16pt;
+}
+
+.address{
+  font-family: 'Roboto:300', sans-serif;
+  font-size: 13pt;
+}
+
+#green{
+  font-family: 'Roboto:500', sans-serif;
+  color: #28A745;
+  font-size: 20pt;
+}
+
+#cupon_mail{
+  font-family: 'Roboto:300', sans-serif;
+  color: #707070;
+}
+
+footer{
+  font-family: 'Roboto:300', sans-serif;
+  color: #707070;
+}
